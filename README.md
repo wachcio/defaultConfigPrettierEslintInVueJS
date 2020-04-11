@@ -1,4 +1,11 @@
-# test_vsc
+# Config eslint and prettier in Vue.js
+
+Default config prettier and eslint in Vue.js
+
+Install dependencies
+npm i -D eslint eslint-config-airbnb-base eslint-config-prettier eslint-plugin-import prettier
+
+Copy .eslintrc and .prettierc to your project
 
 ## Project setup
 ```
